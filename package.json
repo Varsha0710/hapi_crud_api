@@ -1,0 +1,19 @@
+{
+  "name": "hapi_crud_operation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.10",
+    "@hapi/joi": "^17.1.1",
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.10.3",
+    "sequelize": "^6.37.3"
+  }
+}
